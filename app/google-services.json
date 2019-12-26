@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427165125197",
+    "firebase_url": "https://cloud-quiz-app.firebaseio.com",
+    "project_id": "cloud-quiz-app",
+    "storage_bucket": "cloud-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427165125197:android:4a8b79b1300f4a3b382a04",
+        "android_client_info": {
+          "package_name": "by.bsuir.cloud_quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427165125197-lgrcv5hqjrqa0nr5l6t94g6ih9css8cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3wIXCvviF_HkEWDFCKs0NxOwbfe4wQVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427165125197-lgrcv5hqjrqa0nr5l6t94g6ih9css8cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
